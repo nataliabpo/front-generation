@@ -1,0 +1,60 @@
+body{
+    background-color: rgba(227, 170, 234, 0.685);
+}
+
+.menu li{
+    display: inline;
+    padding: 30px;
+}
+
+.menu li a{
+    text-decoration: none;
+    color: rgb(136, 27, 125);
+    font-size: 20px;
+}
+
+.menu li a:hover {
+    font-size: 30px;
+    color: rgb(44, 4, 53);
+}
+
+.txt{
+    text-align: left;
+
+}
+.container {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-itens: center;
+}
+
+.center{
+    text-align: center;
+}
+
+.p-30{
+    padding: 30px;
+}
+
+.wh-500{
+    width: 500px;
+    height: 500px;
+}
+
+.br-50{
+    border-radius: 50%;
+}
+
+.mb-50{
+    margin-bottom: 50px;
+}
+
+.tm-social{
+    width:100px;
+    height: 50px;
+}
+#in{
+    width:50px;
+    height:50px;
+}
